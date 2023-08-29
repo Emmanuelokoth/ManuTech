@@ -1,11 +1,9 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
-Product Page: https://wwww.devcrud.com/
+This is Emmanuel Okoth's Portfolio Website 
 
 Credits:
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
+    Emmanuel OKoth
+      
 
     Icons:
 		Themify Icons: 		(https://themify.me/themify-icons)
